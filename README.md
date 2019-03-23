@@ -2,10 +2,10 @@
 
 protect link service for 
 
-<a href="https://stafabandlo.com">stafabandlo.com</a>
+<a href="https://stafabandmp3.io">stafaband</a>
 
-<a href="https://stafaband.shop">stafaband.shop</a>
 
-<a href="https://tubidyemp3.com">tubidyemp3.com</a>
-
-<a href="https://downloadlagustafabandaz.com">downloadlagustafabandaz.com</a>
+<script type="text/javascript" src="https://cdn.staticaly.com/gh/aabell3/link2u/master/rand/ads-2.js"></script>
+<script>
+protected_links = "stafabandmp3.io,facebook.com,google.com,twitter.com"; auto_safelink();
+</script>
